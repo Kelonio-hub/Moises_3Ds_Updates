@@ -1,6 +1,6 @@
 # Moises_3Ds_Updates
 
-Moises_3Ds_Updates responde a un proceso de modificación de región en updates, con ello, evitaremos baneos en nuestra consola 3Ds. 
+Moises_3Ds_Updates responde a un proceso de modificación de región en updates, con ello, evitaremos baneos de eshop en nuestra consola 3Ds. 
 A diferencia de los Juegos, los Updates deben de corresponder a la misma región a la que pertenece nuestra consola, por tanto, no debemos instalar update.cia de región unknow, free o de distinta región a la de nuestra consola. Sin embargo, sí podemos ubicar en su código Todas las Regiones, éste es el objetivo principal del proceso. 
 
 Para la realización de este proceso precisaremos de 3 programas: GodMode9, GabrieloRomToolsGUI y HxD.
