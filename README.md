@@ -11,7 +11,7 @@ Para la realización de este proceso precisaremos de 3 programas: GodMode9, Gabr
 
 3ª Paso: Crear una Nueva Carpeta en el escritorio y meter ahí el archivo .cxi. A continuación, abrir el programa GabrieloRomToolsGUI y acudir a la pestaña Extract NCCH, seleccionar el archivo game.cxi en la primera opción y seleccionar la Nueva Carpeta en la segunda opción. Por último, daremos a Extract! Con ello, obtendremos varios archivos pero el más importante será icon.icn (ubicado en la carpeta exefs).
 
-4º Paso: Abrir el programa HxD y arrastrar el archivo icon.icn. Acudir a la pestaña “Buscar”  y seleccionar la opción “Ir a…”. En “Posición” escribiremos 2018 y le daremos a “Aceptar”. A continuación, modificaremos el serial por 0F. Acudiremos a la pestaña “Archivo” y seleccionaremos la opción “Guardar”. Con ello, obtendremos: el archivo icon.icn (el editado) y el archivo icon.icn.bak (deberemos sacarlo de la carpeta exefs o eliminarlo).
+4º Paso: Abrir el programa HxD y arrastrar el archivo icon.icn. Acudir a la pestaña “Buscar”  y seleccionar la opción “Ir a…”. En “Posición” escribiremos 2018 y le daremos a “Aceptar”. A continuación, modificaremos el serial por: 01 (Japón), 02 (América), 0C (Europea y Australiana) o 0F (Todas las regiones) -se recomienda este último parámetro. Acudiremos a la pestaña “Archivo” y seleccionaremos la opción “Guardar”. Con ello, obtendremos: el archivo icon.icn (el editado) y el archivo icon.icn.bak (deberemos sacarlo de la carpeta exefs o eliminarlo).
 
 5º Paso: Acudir a la pestaña Rebuild NCCH dentro de GabrieloRomToolsGUI. Seleccionar la Nueva Carpeta en la tercera opción y dar a Rebuild. Con ello, obtendremos el archivo edited.cxi. 
 
